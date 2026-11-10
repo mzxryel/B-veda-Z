@@ -12,17 +12,17 @@ Mapa de las herramientas conectadas a Claude y para qué sirve cada una.
 | 🧠 Cerebro | GitHub | Bóveda de Obsidian | ✅ Conectado |
 | 🧠 Cerebro | Netlify | Publicar webs | ✅ Conectado |
 | 🧠 Cerebro | Supabase | Bases de datos | ✅ Conectado |
-| ⚙️ Sistema nervioso | Make | Automatizaciones entre apps | ⏳ |
-| 🎨 Contenido | Canva | Plantillas y piezas de marca | ⏳ |
-| 🎨 Contenido | Adobe | Edición de fotos y PDFs | ⏳ |
-| 🎨 Contenido | Cloudinary | Fotos y galerías privadas | ⏳ |
-| 🎨 Contenido | Metricool | Programar y medir redes | ⏳ |
-| 🤝 Ventas | Tally | Formularios de brief | ⏳ |
+| ⚙️ Sistema nervioso | Make | Automatizaciones entre apps | ✅ Conectado |
+| 🎨 Contenido | Canva | Plantillas y piezas de marca | ✅ Conectado |
+| 🎨 Contenido | Adobe | Edición de fotos y PDFs | ✅ Conectado |
+| 🎨 Contenido | Cloudinary | Fotos y galerías privadas | ✅ Conectado |
+| 🎨 Contenido | Metricool | Programar y medir redes | ✅ Conectado |
+| 🤝 Ventas | Tally | Formularios de brief | ✅ Conectado |
 | 🤝 Ventas | Calendly | Agenda de clientes | ⏳ |
 | 🤝 Ventas | HubSpot | CRM de clientes | ⏳ |
 | 🤝 Ventas | Signeasy | Contratos firmados | ⏳ |
 | 🎟️ Eventos | Ticket Tailor | Boletas y check-in | ⏳ |
-| 📂 Oficina | Gmail · Calendar · Drive · Sheets | Correo, agenda, archivos, hojas | ⏳ |
+| 📂 Oficina | Gmail · Calendar · Drive · Sheets | Correo, agenda, archivos, hojas | ✅ Conectado |
 
 ## Para más adelante
 - WhatsApp (Sent o Bird) para el agente de ventas de la [[Plataforma de negocios]].

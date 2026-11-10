@@ -20,6 +20,8 @@ Cerebro central de todos mis proyectos. Aquí vive lo que decidimos, lo que est�
 
 ## Sistema
 - [[Cómo trabajamos]] · los 3 chats y el ciclo de trabajo
+- [[Revisión semanal]] · máximo 3 prioridades por semana
+- [[Conectores]] · herramientas conectadas
 - [[Bandeja]] · ideas sueltas por ordenar
 - Plantillas en la carpeta `Plantillas`
 

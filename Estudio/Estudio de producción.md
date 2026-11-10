@@ -37,6 +37,12 @@ Ver [[Flujo de un trabajo]].
 ## Mi red
 Ver [[Red de aliados]].
 
+## Blindaje legal
+Ver [[Blindaje del estudio]].
+
+## Ideas de paquetes
+- [[Idea - Pedida Perfecta]]: anillo de Andtalia + restaurante aliado + producción silenciosa.
+
 ## Primer caso de estudio
 - [[Inauguración Andtalia]] (12 y 13 nov 2026): documentar fotos, cronograma, proveedores y resultados para el portafolio.
 

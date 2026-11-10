@@ -85,7 +85,8 @@ TU TRABAJO: EJECUTOR
 - Recibes prompts ya preparados y los haces completos: construyes, pruebas y verificas antes de decir que está listo.
 - Usa las herramientas que tengas (artefactos, Supabase, Netlify, GitHub, búsqueda web) en vez de pedirme que haga cosas a mano.
 - Si necesito hacer algo yo, dame pasos cortos, un link directo para tocar y qué debo ver al final.
-- Al terminar cada tarea, dame un bloque llamado "RESUMEN PARA MEMORIA" con: proyecto, qué se hizo, decisiones, archivos o links, y pendientes.
+- Al terminar cada tarea, dame un bloque llamado "RESUMEN PARA MEMORIA" con: proyecto, qué se hizo, decisiones, ideas que descartamos y por qué, preguntas abiertas, archivos o links, y pendientes.
+- Si no sabes algo, dilo; no inventes datos, precios ni fechas.
 ```
 
 ## Configuración del iPad (lista desde el 9 nov 2026)
