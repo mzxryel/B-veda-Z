@@ -1,7 +1,7 @@
 ---
 tipo: proyecto
 estado: activo
-actualizado: 2026-11-09
+actualizado: 2026-11-10
 ---
 
 # 💎 Andtalia Joyeros
@@ -16,8 +16,7 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - **Instagram:** @andtaliajoyeros
 
 ## Tecnología
-- Tienda: sitio estático en Netlify
-- Panel admin: sitio aparte en Netlify
+- Tienda y panel admin: ahora en **Cloudflare** (antes en Netlify; cambio confirmado por Zaryel el 2026-11-10)
 - Backend: Supabase
 - Traducción automática ES/EN con Claude Haiku
 - Dominio andtalia.com en Namecheap · correo hola@andtalia.com (pasando de Zoho a Google Workspace)
@@ -32,6 +31,10 @@ Ver [[Inauguración Andtalia]].
 
 ## Alianzas
 - Propuestas con restaurantes de Barranquilla (Don Ernesto, Baltazhar): beneficios para los dueños y servicio de joyería para pedidas de mano.
+
+## Medición
+- Google Analytics 4 creado el 2026-11-10 desde la cuenta personal de Zaryel (cuenta "Andtalia Joyeros", flujo "Web Andtalia"). ID de medición: G-CVWCRXZK6Q.
+- Pendiente: instalar la etiqueta en la web y dar acceso de administrador a hola@andtalia.com.
 
 ## Pendientes
 - [ ] Activar llaves de Bold y conectar pagos
