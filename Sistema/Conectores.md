@@ -10,7 +10,8 @@ Mapa de las herramientas conectadas a Claude y para qué sirve cada una.
 | Capa | Herramienta | Para qué | Estado |
 |---|---|---|---|
 | 🧠 Cerebro | GitHub | Bóveda de Obsidian | ✅ Conectado |
-| 🧠 Cerebro | Netlify | Publicar webs | ✅ Conectado |
+| 🧠 Cerebro | Cloudflare API | Webs de Andtalia (Pages) y dominio | ✅ Conectado |
+| 🧠 Cerebro | Netlify | Webs antiguas (Andtalia ya se fue a Cloudflare) | ✅ Conectado |
 | 🧠 Cerebro | Supabase | Bases de datos | ✅ Conectado |
 | ⚙️ Sistema nervioso | Make | Automatizaciones entre apps | ✅ Conectado |
 | 🎨 Contenido | Canva | Plantillas y piezas de marca | ✅ Conectado |

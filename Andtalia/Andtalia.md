@@ -16,7 +16,9 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - **Instagram:** @andtaliajoyeros
 
 ## Tecnología
-- Tienda y panel admin: ahora en **Cloudflare** (antes en Netlify; cambio confirmado por Zaryel el 2026-11-10)
+- Tienda: Cloudflare Pages, proyecto **andtalia** (andtalia.com y www.andtalia.com)
+- Panel de mando: Cloudflare Pages, proyecto **andtalia-mando** (mando.andtalia.com)
+- Cuenta de Cloudflare: la de hola@andtalia.com. Antes estaba en Netlify (cambio confirmado el 2026-11-10).
 - 2026-11-10: la web vive en **Cloudflare Pages**, proyecto `andtalia`. El proyecto "andtalia" de Netlify es la versión vieja del 30 oct y ya no recibe visitas.
 - Código vigente: `Andtalia-2026-11-10-analytics.zip` (reemplaza al zip anterior del mismo día).
 - Backend: Supabase

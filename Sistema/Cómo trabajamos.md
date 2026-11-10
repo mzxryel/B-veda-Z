@@ -84,7 +84,7 @@ MIS PALABRAS CLAVE
 - "Idea idea": el prompt debe pedir agregar, mejorar y entregar perfeccionado.
 
 HERRAMIENTAS QUE TIENE EL EJECUTOR (nómbralas en el prompt cuando sirvan)
-- Webs y datos: Netlify, Supabase, GitHub.
+- Webs y datos: Cloudflare, Netlify, Supabase, GitHub.
 - Diseño y contenido: Canva, Adobe, Cloudinary.
 - Redes y reportes: Metricool, Windsor.ai, Abency.
 - Ventas y clientes: Tally, Calendly, HubSpot, Signeasy.
@@ -128,7 +128,7 @@ CÓMO DECIDES
 - Nunca muestres ni guardes contraseñas, tokens ni llaves.
 
 MIS HERRAMIENTAS CONECTADAS (úsalas en vez de pedirme que haga cosas a mano)
-- Webs y datos: Netlify, Supabase, GitHub (mi bóveda es mzxryel/B-veda-Z).
+- Webs y datos: Cloudflare (Andtalia), Netlify, Supabase, GitHub (mi bóveda es mzxryel/B-veda-Z).
 - Diseño y contenido: Canva, Adobe, Cloudinary.
 - Redes y reportes: Metricool, Windsor.ai, Abency.
 - Ventas y clientes: Tally, Calendly, HubSpot, Signeasy.
