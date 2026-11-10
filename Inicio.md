@@ -12,6 +12,7 @@ Cerebro central de todos mis proyectos. Aquí vive lo que decidimos, lo que est�
 - [[KAFIT]] · reorganización del Café & Fit Bar
 - [[Futura apertura]] · idea a largo plazo
 - [[Plataforma de negocios]] · sistema todo-en-uno para negocios
+- [[Estudio de producción]] · fotografía y eventos, la mano silenciosa
 
 ## En pausa
 - [[ZK Licores]]
