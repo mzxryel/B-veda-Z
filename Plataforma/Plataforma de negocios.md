@@ -30,3 +30,33 @@ Plataforma todo-en-uno para negocios en Colombia: tienda online, WhatsApp, inven
 - Hoja de ruta: [Trello](https://trello.com/b/aQoUkL54/plataforma-de-negocios-hoja-de-ruta)
 - Propuestas por decidir: nombre (Mostrador, Cuadre, Manito o Tendal); planes Esquina $119.900, Avenida $349.900 y Torre desde $890.000 al mes sin IVA; lanzamiento el 2027-06-01.
 - Por confirmar: comisión exacta de Bold, precio del proveedor DIAN y costo real por conversación del agente.
+
+## Sesión 2026-11-10 — Plan Maestro y entregables
+**Qué se hizo**
+- Plan Maestro en Claude Docs (ver enlaces arriba).
+- Hoja de Google Sheets con 4 pestañas: Supuestos, Planes, Punto de equilibrio y Proyección 12 meses.
+- Tablero de Trello con 5 listas y 41 tarjetas.
+- Nota [[Plan Maestro — Plataforma de negocios]] en la bóveda, enlazada desde aquí.
+
+**Propuestas por decidir**
+- Nombre: Mostrador, Cuadre, Manito o Tendal.
+- Planes: Esquina, Avenida y Torre.
+- Montaje llave en mano: de $390.000 a $2.900.000.
+- Fases: del 2026-11-17 al 2027-05-31; lanzamiento el 2027-06-01.
+- [[KAFIT]] como primera prueba y [[Andtalia]] en marzo de 2027.
+
+**Ideas descartadas** → [[Decisión — Facturación DIAN con proveedor y app web sin App Store]]
+- Construir nosotros mismos la facturación DIAN.
+- Publicar una app en App Store.
+
+**Preguntas abiertas**
+- Comisión de Bold.
+- Proveedor DIAN.
+- Costo por conversación del agente.
+- Disponibilidad del nombre y del dominio.
+
+**Pendientes**
+- [ ] Formulario de Tally (quedó para después).
+- [ ] Arrancar la Fase 1 el lunes 2026-11-17.
+
+**Estado (2026-11-10):** plan listo; esperando decisiones de nombre y planes para arrancar la Fase 1.
