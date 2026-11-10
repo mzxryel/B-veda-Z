@@ -1,6 +1,6 @@
 ---
 tipo: sistema
-actualizado: 2026-11-09
+actualizado: 2026-11-10
 ---
 
 # 🔌 Conectores
@@ -21,8 +21,14 @@ Mapa de las herramientas conectadas a Claude y para qué sirve cada una.
 | 🤝 Ventas | Calendly | Agenda de clientes | ✅ Conectado |
 | 🤝 Ventas | HubSpot | CRM de clientes | ✅ Conectado |
 | 🤝 Ventas | Signeasy | Contratos firmados | ✅ Conectado |
+| 📋 Equipo | Trello | Tableros de tareas por cliente | ✅ Conectado |
+| 📊 Reportes | Windsor.ai | Instagram, Meta, Google Analytics y reseñas de Google | ✅ Conectado (prueba gratis) |
+| 📊 Reportes | Abency | Gestión de marcas de agencia, SEO y reseñas | ✅ Conectado (por evaluar) |
 | 🎟️ Eventos | Ticket Tailor | Boletas y check-in | Solo si algún evento vende boletas |
 | 📂 Oficina | Gmail · Calendar · Drive · Sheets | Correo, agenda, archivos, hojas | ✅ Conectado |
+
+## Sin conector (a propósito)
+- **Bitwarden**: gestor de contraseñas de los clientes. Las claves nunca pasan por un chat.
 
 ## Para más adelante
 - WhatsApp (Sent o Bird) para el agente de ventas de la [[Plataforma de negocios]].
