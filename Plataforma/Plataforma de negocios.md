@@ -20,6 +20,10 @@ Plataforma todo-en-uno para negocios en Colombia: tienda online, WhatsApp, inven
 4. Prueba real de 30 días en Andtalia
 5. Convertirlo en producto con 3 negocios piloto
 
+## Pagos
+- 2026-11-10: se descartó Bold por costo; se está evaluando Wompi (Bancolombia) como pasarela.
+- Pregunta abierta: cobrar con un Wompi a nombre de Zaryel (persona natural) sirve para sus propios negocios; para negocios de terceros lo normal es que cada uno tenga su propia cuenta y la Plataforma solo la conecte. Por confirmar con el contador antes de construir.
+
 ## Retos
 - Sin capital ni equipo por ahora
 - Buscar ventajas difíciles de copiar
