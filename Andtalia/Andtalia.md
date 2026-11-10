@@ -17,6 +17,8 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 
 ## Tecnología
 - Tienda y panel admin: ahora en **Cloudflare** (antes en Netlify; cambio confirmado por Zaryel el 2026-11-10)
+- 2026-11-10: la web vive en **Cloudflare Pages**, proyecto `andtalia`. El proyecto "andtalia" de Netlify es la versión vieja del 30 oct y ya no recibe visitas.
+- Código vigente: `Andtalia-2026-11-10-analytics.zip` (reemplaza al zip anterior del mismo día).
 - Backend: Supabase
 - Traducción automática ES/EN con Claude Haiku
 - Dominio andtalia.com en Namecheap · correo hola@andtalia.com (pasando de Zoho a Google Workspace)
@@ -34,7 +36,14 @@ Ver [[Inauguración Andtalia]].
 
 ## Medición
 - Google Analytics 4 creado el 2026-11-10 desde la cuenta personal de Zaryel (cuenta "Andtalia Joyeros", flujo "Web Andtalia"). ID de medición: G-CVWCRXZK6Q.
-- Pendiente: instalar la etiqueta en la web y dar acceso de administrador a hola@andtalia.com.
+- Pendiente: dar acceso de administrador a hola@andtalia.com.
+- **2026-11-10: Analytics instalado y publicado** en andtalia.com y www.andtalia.com. Ver [[Analítica con Google Analytics 4]].
+  - Archivo `web/js/analitica.js`, cargado en index.html y confirmacion.html. La política de seguridad (`_headers`) ahora deja pasar a Google.
+  - Eventos: `view_item` (abrir joya), `add_to_cart` (agregar o comprar ya), `begin_checkout` (antes de abrir Bold), `purchase` y `click_whatsapp`.
+  - `purchase` solo cuenta pedidos ya pagados con Bold, una vez por pedido, con valor en COP, código AND-P y nombre de cada joya.
+  - Si Analytics falla, la tienda y el pago siguen funcionando. Bold y Supabase no se tocaron.
+  - Mando no lleva Analytics.
+  - ⚠️ En Analytics quedaron **dos compras de prueba de $1.500.000** ("AND-W-1", "Cadena prueba"). No son ventas reales y Google no deja borrarlas.
 
 ## Pendientes
 - [ ] Activar llaves de Bold y conectar pagos
@@ -43,3 +52,6 @@ Ver [[Inauguración Andtalia]].
 - [ ] Crear Instagram y Facebook ligados a hola@andtalia.com
 - [ ] Personalizar el correo de verificación de Supabase
 - [ ] Plantillas de publicidad para que el dueño publique con el estilo de la marca
+- [ ] Confirmar en Analytics → Tiempo real que llegan las visitas (2026-11-10)
+- [ ] Borrar la llave de Cloudflare "Andtalia analytics" (2026-11-10)
+- [ ] Dar acceso de administrador de Analytics a hola@andtalia.com
