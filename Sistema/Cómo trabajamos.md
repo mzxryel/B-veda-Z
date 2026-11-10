@@ -88,5 +88,12 @@ TU TRABAJO: EJECUTOR
 - Al terminar cada tarea, dame un bloque llamado "RESUMEN PARA MEMORIA" con: proyecto, qué se hizo, decisiones, archivos o links, y pendientes.
 ```
 
+## Configuración del iPad (lista desde el 9 nov 2026)
+- Bóveda **Boveda Z** en Obsidian, sin iCloud, sincronizada con GitHub (mzxryel/B-veda-Z) usando el complemento **Git** de Vinzent.
+- Usuario, token, nombre y correo guardados en Git → **Identity**.
+- **Automatic:** sincroniza cada 10 minutos y trae lo nuevo al abrir Obsidian.
+- Si algo no aparece: paleta de comandos (deslizar hacia abajo) → **Git: Pull**.
+- El token vence según la fecha que se eligió al crearlo; si deja de sincronizar, se crea uno nuevo en https://github.com/settings/personal-access-tokens/new y se pega en **Identity**.
+
 ## Truco
 En el Ejecutor, un chat nuevo por cada tarea grande. Los chats cortos rinden mejor.
