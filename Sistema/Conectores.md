@@ -18,10 +18,10 @@ Mapa de las herramientas conectadas a Claude y para qué sirve cada una.
 | 🎨 Contenido | Cloudinary | Fotos y galerías privadas | ✅ Conectado |
 | 🎨 Contenido | Metricool | Programar y medir redes | ✅ Conectado |
 | 🤝 Ventas | Tally | Formularios de brief | ✅ Conectado |
-| 🤝 Ventas | Calendly | Agenda de clientes | ⏳ |
-| 🤝 Ventas | HubSpot | CRM de clientes | ⏳ |
-| 🤝 Ventas | Signeasy | Contratos firmados | ⏳ |
-| 🎟️ Eventos | Ticket Tailor | Boletas y check-in | ⏳ |
+| 🤝 Ventas | Calendly | Agenda de clientes | ✅ Conectado |
+| 🤝 Ventas | HubSpot | CRM de clientes | ✅ Conectado |
+| 🤝 Ventas | Signeasy | Contratos firmados | ✅ Conectado |
+| 🎟️ Eventos | Ticket Tailor | Boletas y check-in | Solo si algún evento vende boletas |
 | 📂 Oficina | Gmail · Calendar · Drive · Sheets | Correo, agenda, archivos, hojas | ✅ Conectado |
 
 ## Para más adelante
