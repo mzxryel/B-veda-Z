@@ -2,3 +2,6 @@
 .obsidian/workspace-mobile.json
 .trash/
 .DS_Store
+
+# Arena: borradores de los torneos de subagentes (no se suben)
+.arena/

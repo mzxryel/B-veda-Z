@@ -11,3 +11,16 @@ Lee esto antes de tocar cualquier nota.
 7. **Antes de escribir, trae lo último** (pull) para no pisar lo que Zaryel editó en el iPad.
 8. **Si no sabes, dilo:** no inventes datos, precios ni fechas; márcalos como "por confirmar".
 9. **Idioma y estilo:** español, cuidado y claro.
+
+## Arena
+
+*Agregado por Claude el 2026-11-11.*
+
+La skill `/arena` (en `.claude/skills/arena/`) pone a competir varios subagentes con la misma tarea hasta que sobrevive la mejor solución. Gasta bastante límite del plan, así que:
+
+- Usa `/arena` solo cuando Zaryel lo pida, o cuando una respuesta importante salió mal dos veces.
+- Por defecto usa el modo `--quick` (16 agentes, 91 llamadas).
+- Antes de lanzar 100 agentes, avisa el número de llamadas (595) y espera la confirmación de Zaryel.
+- Si el resultado cambia archivos, muestra la propuesta y pregunta antes de aplicarla.
+- Los borradores del torneo quedan en `.arena/`, que está en `.gitignore` y no se sube.
+- La fuente y el commit exacto de la skill están en `.claude/skills/arena/ORIGEN.md`.
