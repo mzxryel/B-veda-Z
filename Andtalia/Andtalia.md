@@ -1,7 +1,7 @@
 ---
 tipo: proyecto
 estado: activo
-actualizado: 2026-11-10
+actualizado: 2026-11-14
 ---
 
 # 💎 Andtalia Joyeros
@@ -33,6 +33,19 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 ## Inauguración del local
 Ver [[Inauguración Andtalia]].
 
+## Financiación: Addi y Sistecrédito (Fase 1)
+*Actualizado por Claude el 2026-11-14.*
+
+- **Estado:** en trámite de afiliación.
+- **Hecho:** revisión de los documentos legales, hoja de afiliación ajustada a los datos reales de la empresa y 7 archivos subidos a Drive.
+- **Titular:** ANDALIA JOYEROS BQ S.A.S. · representante legal: Tatiana Africano García. Ver [[Decisión — Titular y nombre en la afiliación a Addi y Sistecrédito]].
+  - Nota: la razón social se escribió tal como vino en el resumen ("ANDALIA", sin T). Verificar contra el RUT.
+- **Nombre:** la razón social con "JOYEROS" solo en el campo de razón social; en todo lo demás, "Andtalia Joyería".
+
+**Preguntas abiertas**
+- ¿Qué tiempo mínimo de funcionamiento exigen Addi y Sistecrédito? (preguntar a los asesores)
+- ¿La fecha de los estados financieros sirve y están registrados en la Junta Central? (revisar con el contador)
+
 ## Alianzas
 - Propuestas con restaurantes de Barranquilla (Don Ernesto, Baltazhar): beneficios para los dueños y servicio de joyería para pedidas de mano.
 
@@ -57,3 +70,8 @@ Ver [[Inauguración Andtalia]].
 - [ ] Confirmar en Analytics → Tiempo real que llegan las visitas (2026-11-10)
 - [ ] Borrar la llave de Cloudflare "Andtalia analytics" (2026-11-10)
 - [ ] Dar acceso de administrador de Analytics a hola@andtalia.com
+- [ ] Addi/Sistecrédito: conseguir el RUT de la empresa (2026-11-14)
+- [ ] Addi/Sistecrédito: conseguir el certificado bancario (2026-11-14)
+- [ ] Addi/Sistecrédito: conseguir la cédula de Tatiana (2026-11-14)
+- [ ] Preguntar a los asesores de Addi y Sistecrédito el tiempo mínimo de funcionamiento (2026-11-14)
+- [ ] Revisar con el contador la fecha de los estados financieros y su registro en la Junta Central — **vence el 2026-12-18**
