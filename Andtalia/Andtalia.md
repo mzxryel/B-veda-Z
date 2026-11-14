@@ -21,6 +21,7 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - Cuenta de Cloudflare: la de hola@andtalia.com. Antes estaba en Netlify (cambio confirmado el 2026-11-10).
 - 2026-11-10: la web vive en **Cloudflare Pages**, proyecto `andtalia`. El proyecto "andtalia" de Netlify es la versión vieja del 30 oct y ya no recibe visitas.
 - Código vigente: `Andtalia-2026-11-10-analytics.zip` (reemplaza al zip anterior del mismo día).
+- Código de la web en GitHub: https://github.com/mzxryel/andtalia-web (desde 2026-11-14 la versión vigente es main `c7f24d1`)
 - Backend: Supabase
 - Traducción automática ES/EN con Claude Haiku
 - Dominio andtalia.com en Namecheap · correo hola@andtalia.com (pasando de Zoho a Google Workspace)
@@ -29,6 +30,16 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - **Pagos:** Bold es el único medio de pago web. El cliente paga primero y solo después ve "pago confirmado".
 - **Facturación:** toda compra web lleva factura electrónica con Alegra (con NIT si el cliente lo da, si no a consumidor final).
 - El cliente debe poder pedir su factura DIAN desde la compra.
+
+## Portada con video
+*Actualizado por Claude el 2026-11-14.*
+- La portada abre en ónix, sin logo; el video se ve **una sola vez** y se detiene con el logo ya formado (11,8 s).
+- Al terminar queda una imagen idéntica (`hero-final`) con destello y polvo de oro.
+- Si el video no se puede mostrar, aparece directamente el logo final.
+- Se quitaron los pósters viejos que tenían el logo.
+- Publicado en Cloudflare (despliegue `1a0fdf50`). Código en GitHub: [mzxryel/andtalia-web](https://github.com/mzxryel/andtalia-web), rama main, commit `c7f24d1`.
+- Ver la decisión: [[Decisión — Intro de video una vez por visita]].
+- **Pregunta abierta:** ¿se borran los videos viejos de Cloudinary (carpeta `andtalia/hero`)?
 
 ## Inauguración del local
 Ver [[Inauguración Andtalia]].
@@ -75,3 +86,7 @@ Ver [[Inauguración Andtalia]].
 - [ ] Addi/Sistecrédito: conseguir la cédula de Tatiana (2026-11-14)
 - [ ] Preguntar a los asesores de Addi y Sistecrédito el tiempo mínimo de funcionamiento (2026-11-14)
 - [ ] Revisar con el contador la fecha de los estados financieros y su registro en la Junta Central — **vence el 2026-12-18**
+- [ ] Revisar la portada con video en el iPhone y el iPad reales (2026-11-14)
+- [ ] Quitar el nombre, el NIT y "JOYEROS" de la remisión del panel admin, cuando Zaryel lo autorice (2026-11-14)
+- [ ] Cambiar el link de Instagram cuando exista el usuario nuevo (2026-11-14)
+- [ ] Decidir si se borran los videos viejos de Cloudinary `andtalia/hero` (2026-11-14)
