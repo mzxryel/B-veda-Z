@@ -41,6 +41,17 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - Ver la decisión: [[Decisión — Intro de video una vez por visita]].
 - **Pregunta abierta:** ¿se borran los videos viejos de Cloudinary (carpeta `andtalia/hero`)?
 
+## Vitrina viva
+*Actualizado por Claude el 2026-11-15 (sesión del 2026-11-14).*
+
+- **Estado:** en vista previa, esperando que Zaryel la pruebe en su iPad y su iPhone. Todavía no está unida a main.
+- **Vista previa:** https://vitrina-viva.andtalia.pages.dev/
+- **Decisión:** la Vitrina viva es lo principal y va primero en el inicio; lo demás va después. Ver [[Decisión — Vitrina viva primero en el inicio]].
+- **Aprobado por Zaryel:** la luz al elegir una joya (sin líneas y con buen brillo).
+- **Hecho:** paso a la ficha sin nada que vuele. La joya se enciende, nace un círculo de luz marfil de borde suave que llena la pantalla y la ficha entra en foco debajo (unos 1,3 s). Sirve para las fichas con foto individual.
+- **Hecho:** ficha más limpia. «Descúbrela en la vitrina» con miniatura y sin caja, acciones en línea y garantías en una sola línea.
+- **Al unirla a main, cuidar:** el pie de página sin NIT, los videos de portada y la rama de temporadas.
+
 ## Catálogo 2026
 *Actualizado por Claude el 2026-11-15.*
 
@@ -129,3 +140,5 @@ Ver [[Inauguración Andtalia]].
 - [ ] Claude, con visto bueno: migración de Supabase (campos nuevos y categoría collares) (2026-11-15)
 - [ ] Claude, con visto bueno: cargar la hoja al panel como productos ocultos (2026-11-15)
 - [ ] Claude, con visto bueno: armar las páginas de colección en una rama aparte (2026-11-15)
+- [ ] Vitrina viva: Zaryel la prueba en su iPad y su iPhone y la aprueba (2026-11-14)
+- [ ] Claude, con visto bueno: unir la Vitrina viva a main cuidando el pie sin NIT, los videos de portada y la rama de temporadas (2026-11-14)
