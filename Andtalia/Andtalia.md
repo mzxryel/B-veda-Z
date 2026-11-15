@@ -1,7 +1,7 @@
 ---
 tipo: proyecto
 estado: activo
-actualizado: 2026-11-14
+actualizado: 2026-11-15
 ---
 
 # 💎 Andtalia Joyeros
@@ -40,6 +40,38 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 - Publicado en Cloudflare (despliegue `1a0fdf50`). Código en GitHub: [mzxryel/andtalia-web](https://github.com/mzxryel/andtalia-web), rama main, commit `c7f24d1`.
 - Ver la decisión: [[Decisión — Intro de video una vez por visita]].
 - **Pregunta abierta:** ¿se borran los videos viejos de Cloudinary (carpeta `andtalia/hero`)?
+
+## Catálogo 2026
+*Actualizado por Claude el 2026-11-15.*
+
+- **Estado:** catálogo armado en papel; **nada subido a la web todavía**.
+- **Fotos:** 102 en Drive («Andtalia - Fotos Instagram»), de las cuales 14 son copias exactas. Las mismas 102, ya limpias, están en Cloudinary (`andtalia/instagram`). Supabase y GitHub no tienen fotos de producto.
+- **Joyas:** 200, con código **AND-001 a AND-200**, cada una con nombre propio en español e inglés.
+- **Entregado:** hoja de productos y presentación vertical.
+  - Carpeta: https://drive.google.com/drive/folders/100Fg9EurIxDHbQY3jn3VSPq53QcG9Boz
+  - Hoja: https://docs.google.com/spreadsheets/d/1XsRmNaMog29y5p_J2kW1hia7fCqadjCPjhy_r4-_r6I/edit
+  - Presentación: https://drive.google.com/file/d/1o4yjwicmGt4hGqWzUuNCKCOj7d2XGis-/view
+
+**Colecciones (ES / EN · número de joyas)**
+| Colección | English | Joyas |
+|---|---|---|
+| Promesa de Brisa | Breeze Vow | 38 |
+| Cayena | Hibiscus | 15 |
+| Hora Dorada | Golden Hour | 60 |
+| Marea | Tide | 46 |
+| Bendición | Blessing | 20 |
+| Puerta de Oro | Gate of Gold | 21 |
+
+**Decisiones:** nombres propios sin marcas ni formas emblemáticas, códigos AND como referencia en Supabase y fotos limpias de Cloudinary. Ver [[Decisión — Nombres propios y códigos AND del catálogo 2026]].
+
+**Lo que le falta a Supabase** (proyecto vigente `oezipeuyamyzqrxfupuo`)
+- En la tabla `products`: colección, color del oro, piedras, medida libre y notas.
+- La categoría **collares**.
+
+**Preguntas abiertas**
+- ¿AND-124 y AND-140 a AND-142 son joyas repetidas?
+- ¿Qué pasa con AND-093? (por confirmar)
+- ¿Cuáles joyas serán las destacadas?
 
 ## Inauguración del local
 Ver [[Inauguración Andtalia]].
@@ -90,3 +122,10 @@ Ver [[Inauguración Andtalia]].
 - [ ] Quitar el nombre, el NIT y "JOYEROS" de la remisión del panel admin, cuando Zaryel lo autorice (2026-11-14)
 - [ ] Cambiar el link de Instagram cuando exista el usuario nuevo (2026-11-14)
 - [ ] Decidir si se borran los videos viejos de Cloudinary `andtalia/hero` (2026-11-14)
+- [ ] Catálogo: llenar las 1.000 casillas de la hoja y confirmar tipo, color del oro y piedras de las 200 joyas (2026-11-15)
+- [ ] Catálogo: tomar foto propia de 114 joyas (2026-11-15)
+- [ ] Catálogo: decidir las joyas destacadas (2026-11-15)
+- [ ] Catálogo: confirmar si AND-124 y AND-140 a AND-142 están repetidas, y revisar AND-093 (2026-11-15)
+- [ ] Claude, con visto bueno: migración de Supabase (campos nuevos y categoría collares) (2026-11-15)
+- [ ] Claude, con visto bueno: cargar la hoja al panel como productos ocultos (2026-11-15)
+- [ ] Claude, con visto bueno: armar las páginas de colección en una rama aparte (2026-11-15)
