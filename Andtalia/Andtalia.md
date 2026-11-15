@@ -55,10 +55,15 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 ## Catálogo 2026
 *Actualizado por Claude el 2026-11-15.*
 
-- **Estado:** catálogo armado en papel; **nada subido a la web todavía**.
-- **Fotos:** 102 en Drive («Andtalia - Fotos Instagram»), de las cuales 14 son copias exactas. Las mismas 102, ya limpias, están en Cloudinary (`andtalia/instagram`). Supabase y GitHub no tienen fotos de producto.
-- **Joyas:** 200, con código **AND-001 a AND-200**, cada una con nombre propio en español e inglés.
-- **Entregado:** hoja de productos y presentación vertical.
+- **Estado:** las 200 joyas (**AND-001 a AND-200**) ya están en Supabase (`oezipeuyamyzqrxfupuo`) como productos **ocultos**, marcados «datos incompletos». Todavía no se ven en la web.
+- **Por colección:** 38 / 15 / 60 / 46 / 20 / 21 (mismo orden de la tabla de abajo).
+- **Valores provisionales:** precio 0 (la casilla no puede ir vacía). Ley 18K y «mujer» son el valor por defecto, **no datos reales**: siguen pendientes. Origen vacío.
+- **Candado:** la base no deja mostrar una joya incompleta. Ver [[Decisión — Catálogo 2026 cargado oculto y con candado]].
+- **Supabase, hecho:** tabla de colecciones; columnas colección, color del oro, piedras, medida y notas; categoría **collares** (oculta). La próxima referencia nueva es **AND-201**.
+- **Fotos grupales:** 54 en borrador con 142 piezas vinculadas. Faltan 4 bandejas por volver a fotografiar y 5 piezas dudosas por vincular.
+- **Panel en vista previa** (rama `catalogo-2026`, no está en main): https://catalogo-2026.andtalia-mando.pages.dev/#/catalogo?inc=1
+- **Fotos de origen:** 102 en Drive («Andtalia - Fotos Instagram»), 14 de ellas copias exactas. Las mismas, limpias, en Cloudinary (`andtalia/instagram`).
+- **Entregado antes:** hoja de productos y presentación vertical.
   - Carpeta: https://drive.google.com/drive/folders/100Fg9EurIxDHbQY3jn3VSPq53QcG9Boz
   - Hoja: https://docs.google.com/spreadsheets/d/1XsRmNaMog29y5p_J2kW1hia7fCqadjCPjhy_r4-_r6I/edit
   - Presentación: https://drive.google.com/file/d/1o4yjwicmGt4hGqWzUuNCKCOj7d2XGis-/view
@@ -75,13 +80,10 @@ Joyería en oro, negocio de mis papás. Hice toda su presencia digital: tienda o
 
 **Decisiones:** nombres propios sin marcas ni formas emblemáticas, códigos AND como referencia en Supabase y fotos limpias de Cloudinary. Ver [[Decisión — Nombres propios y códigos AND del catálogo 2026]].
 
-**Lo que le falta a Supabase** (proyecto vigente `oezipeuyamyzqrxfupuo`)
-- En la tabla `products`: colección, color del oro, piedras, medida libre y notas.
-- La categoría **collares**.
-
 **Preguntas abiertas**
-- ¿AND-124 y AND-140 a AND-142 son joyas repetidas?
-- ¿Qué pasa con AND-093? (por confirmar)
+- ¿AND-124, AND-140 a AND-142, AND-093 y AND-042 son joyas repetidas?
+- ¿Qué se hace con las joyas de prueba que dicen «trébol» o «clavo»?
+- ¿Qué se hace con las 3 fotos de ejemplo que están publicadas?
 - ¿Cuáles joyas serán las destacadas?
 
 ## Inauguración del local
@@ -133,12 +135,15 @@ Ver [[Inauguración Andtalia]].
 - [ ] Quitar el nombre, el NIT y "JOYEROS" de la remisión del panel admin, cuando Zaryel lo autorice (2026-11-14)
 - [ ] Cambiar el link de Instagram cuando exista el usuario nuevo (2026-11-14)
 - [ ] Decidir si se borran los videos viejos de Cloudinary `andtalia/hero` (2026-11-14)
-- [ ] Catálogo: llenar las 1.000 casillas de la hoja y confirmar tipo, color del oro y piedras de las 200 joyas (2026-11-15)
+- [ ] Catálogo: completar los datos reales de las 200 joyas (precio, ley, género, origen, color del oro, piedras) (2026-11-15)
 - [ ] Catálogo: tomar foto propia de 114 joyas (2026-11-15)
 - [ ] Catálogo: decidir las joyas destacadas (2026-11-15)
-- [ ] Catálogo: confirmar si AND-124 y AND-140 a AND-142 están repetidas, y revisar AND-093 (2026-11-15)
-- [ ] Claude, con visto bueno: migración de Supabase (campos nuevos y categoría collares) (2026-11-15)
-- [ ] Claude, con visto bueno: cargar la hoja al panel como productos ocultos (2026-11-15)
+- [ ] Catálogo: confirmar las repetidas: AND-124, AND-140 a 142, AND-093 y AND-042 (2026-11-15)
+- [x] Claude: migración de Supabase (colecciones, campos nuevos y categoría collares) — hecho el 2026-11-15
+- [x] Claude: cargar las 200 joyas como productos ocultos — hecho el 2026-11-15
+- [ ] Catálogo: ajustar los puntos de las joyas en Vitrinas (2026-11-15)
+- [ ] Catálogo: volver a fotografiar 4 bandejas y vincular 5 piezas dudosas (2026-11-15)
+- [ ] Catálogo: decidir qué hacer con las joyas de prueba «trébol/clavo» y las 3 fotos de ejemplo publicadas (2026-11-15)
 - [ ] Claude, con visto bueno: armar las páginas de colección en una rama aparte (2026-11-15)
 - [ ] Vitrina viva: Zaryel la prueba en su iPad y su iPhone y la aprueba (2026-11-14)
 - [ ] Claude, con visto bueno: unir la Vitrina viva a main cuidando el pie sin NIT, los videos de portada y la rama de temporadas (2026-11-14)
